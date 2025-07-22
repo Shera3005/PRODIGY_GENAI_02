@@ -9,7 +9,7 @@ The image was generated using the above prompt.
 ---
 
 ## 📁 Files Included
-- `Task02_ImageGeneration.ipynb` — Jupyter Notebook with all the code
+- `PRODIGY_GENAI_02'.ipynb` — Jupyter Notebook with all the code
 - `robot_painting.png` — Image generated from the prompt
 - `README.md` — This file
 
